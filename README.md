@@ -40,6 +40,8 @@ Sintáxis Global: (para tener compatibilidad de código a código, y saber cómo
       - Comentarios donde se requiera.
 
       - Nomenclatura estable de clases, funciones, variables, archivos, etc.
+      
+      - Checa (https://www.python.org/dev/peps/pep-0008/) si no entiendes alguna, o para saber más.
 
     Imports:
 

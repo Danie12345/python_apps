@@ -31,7 +31,7 @@ Sintáxis Global: (para tener compatibilidad de código a código, y saber cómo
 
       Locales:
 
-        - Siempre en minúsculas, separa palabras con guines bajos.
+        - Siempre en minúsculas, separa palabras con guiones bajos.
 
     PEP8:
 
